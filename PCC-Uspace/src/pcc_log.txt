@@ -1,0 +1,7 @@
+{
+"log version":"njay-1",
+"Experiment Parameters":{
+  "PCC Args":"./app/pccclient send 127.0.0.1 9000 --pcc-rate-control=python -pyhelper=loaded_client -pypath=/home/sunwz/MOCC/PCC-RL/src/udt-plugins/testing/ --history-len=10 --pcc-utility-calc=linear --model-path=/home/sunwz/MOCC/PCC-RL/src/gym/model/ --weight_throughput=0.6 --weight_delay=0.3 --weight_loss=0.1 "
+},
+"Events":[
+]}

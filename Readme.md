@@ -20,7 +20,7 @@ To train the model, follow these steps:
 3. run run.py to generate the bash script for training.
 4. run the bash script to start training.
 
-### Test
+### Testing
 
 Start a server:
 ```
